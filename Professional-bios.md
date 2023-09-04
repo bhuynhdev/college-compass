@@ -13,7 +13,7 @@ January – August 2023
 - Actively participated in bug fixing efforts, identifying and resolving over 20 issues to maintain code quality and integrity.
 - Collaborated with the Testing Team to conduct thorough unit tests and ensure quality and reliability of the software. 
 
-#### Full-stack Software Engineer Intern - Farental
+#### Full-stack Software Engineer - Farental
 February– June 2023
 - Led the development of the Website and API of the Jordan Rail project for a railing business. 
 - Implemented over 20 new features for the management website using *HTML*, *CSS*, *JavaScript*, *jQuery*, *KendoUI* and *.NET* framework. 
