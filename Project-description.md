@@ -4,9 +4,11 @@
 1. Triet Pham - [chrispham0502](https://github.com/chrispham0502)
    * Email: phamt7@mail.uc.edu
    * Major: Computer Science
+   * [Professional biopgrahy](Professional-bios.md#triet-pham)
 2. Bao Huynh - [bhuynhdev](https://github.com/bhuynhdev)
    * Email: huynhlbg@mail.uc.edu
    * Major: Computer Science
+   * [Professional biopgrahy](Professional-bios.md#bao-huynh)
   
 # Project description
 CollegeCompass aims to be a web application that catalyzed college student's carrer success through AI-powered suggestion of resources, advice, and knowledge bits.
