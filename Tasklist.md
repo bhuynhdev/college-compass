@@ -11,6 +11,6 @@ Task list:
 10. Develop a feedback mechanism for students to suggest new features and report issues.
 11. Document the app's features, functionality, and user guides for students and administrators.
 
-Responsibility:
-Bao: Task 1, 2, 3, 7, 8, 9
+Responsibility:  
+Bao: Task 1, 2, 3, 7, 8, 9  
 Triet: 4, 5, 6, 10, 11
