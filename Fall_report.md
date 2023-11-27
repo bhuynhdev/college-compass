@@ -317,3 +317,9 @@ GPT answer is often generic at first, even though the file is provided
 By Prompt engineering, we achived better results
 ![](/gpt-result-v0.png)
 
+## Web application interface wireframe
+
+We did preliminary design work (using Figma) to envision how our web application's user interface will look. We have opted to show the interface of our chat bot and the built-in todolist that takes todo item information from the AI-generated response.
+
+![](/figma-mockup-college-compass.png)
+
