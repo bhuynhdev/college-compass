@@ -1,0 +1,10 @@
+# This file tells Git which files shouldn't be added to source control
+
+.idea
+src/gpt-crawler/dist
+src/gpt-crawler/node_modules
+src/gpt-crawler/apify_storage
+src/gpt-crawler/crawlee_storage
+src/gpt-crawler/storage
+
+node_modules
