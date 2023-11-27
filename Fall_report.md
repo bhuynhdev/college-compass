@@ -10,6 +10,18 @@
 
 4. [Tasks and timeline](#4-tasks-and-timeline)
 
+5. [ABET Concern essay](#5-abet-concern-essay)
+
+6. [Powerpoint slideshow](#6-powerpoint-slideshow)
+
+7. [Self-assessment essays](#7-self-assessment-essays)
+
+8. [Professional Biographies](#8-professional-biographies)
+
+9. [Budget](#9-budget)
+
+10. [Appendix](#10-appendix)
+
 ## 1. Project abstract and team members
 
 Project **College Compass**: An AI-powered web app that aid college student's career success through personalized mentoring and suggestion of resources, advice, and knowledge bits. 
@@ -90,9 +102,11 @@ In the development of our AI-powered web application, College Compass, several c
 
 Addressing these constraints requires careful planning, adherence to ethical standards, compliance with legal requirements, and a commitment to social responsibility. By navigating these challenges effectively, we can craft a successful and impactful College Compass platform that prioritizes the needs and well-being of college students while upholding ethical, legal, and societal norms.
 
-## Powerpoint slideshow
+## 6. Powerpoint slideshow
 
-## Self-assessment essays
+Here are the materials for our [Powerpoint slideshow](https://mailuc-my.sharepoint.com/:f:/g/personal/huynhlbg_mail_uc_edu/EtKEfWY3tnRLrSHncsd0FBkBvX1AmlGDY-omvvrK4mgbtg) which includes our presentation file and presentation video.
+
+## 7. Self-assessment essays
 
 ### Bao Huynh
 
@@ -195,16 +209,17 @@ good job, I plan to properly document my progress and seek continuous feedback t
 and reflect on. Furthermore, setting timelines and milestones is also a way for more to keep track of 
 where I am and how far I am to my goals.
 
-## Professional biographies
+## 8. Professional biographies
 
 ### Bao Huynh
 
-#### Contact information
+#### Contact Information
 Email: huynhlbg@mail.uc.edu
 
-#### Coop work experience
+#### Coop Work Experience
 
-##### Software Developer, Siemens Digital Industry Software, Ohio
+_Software Developer, Siemens Digital Industry Software, Ohio_
+
 August 2022 - August 2023
 - Worked on a collaborative web-based SaaS application for managing construction lifecycle
 *- Developed POC code into production-ready modules using the Siemens Web Framework; successfully integrated into the CI pipeline
@@ -213,7 +228,8 @@ August 2022 - August 2023
 - Fixed defects, enhanced documentations, and wrote Jest unit tests
 - **Technologies used**: HTML, JavaScript, Jest, React.js
 
-##### Software Developer, EyeQ Tech, Vietnam
+_Software Developer, EyeQ Tech, Vietnam_
+
 January 2021 - August 2021
 
 - Worked on a web application that support Human Resource talent sourcing using automated video interviews
@@ -229,25 +245,27 @@ January 2021 - August 2021
 - Web development: HTML, CSS, TailwindCSS, React.js, Angular, Svelte, Node.js, Fastify, NestJs
 - Database: PostgreSQL, MySQL, MongoDB
 
-#### Types of projects sought
+#### Types Of Projects Sought
 - Education-focused web applications that aim to improve student studying and thinking (encouraging more active learning), and/or ease the friction for lectures to design better materials
 - AI-based applications that utilized GPT to help college students have more focused directions and tasks list to maximize their college journey and potential
 
 ### Triet Pham
 
-#### Contact information
+#### Contact Information
 Email: phamt7@mail.uc.edu
 
 #### Co-op Work Experience
 *Software Engineer Intern* - FPT Software
-January – August 2023
+
+January 2023 – August 2023
 - Worked in the Global Health Center division to develop software for ultrasound devices. 
 - Implemented 6 new features for 2 product lines using *C*, *C++*, *C#* and *.NET* framework, enhancing functionalities of the devices. 
 - Actively participated in bug fixing efforts, identifying and resolving over 20 issues to maintain code quality and integrity.
 - Collaborated with the Testing Team to conduct thorough unit tests and ensure quality and reliability of the software. 
 
 *Full-stack Software Engineer Intern* - Farental
-February– June 2023
+
+February 2023 – June 2023
 - Led the development of the Website and API of the Jordan Rail project for a railing business. 
 - Implemented over 20 new features for the management website using *HTML*, *CSS*, *JavaScript*, *jQuery*, *KendoUI* and *.NET* framework. 
 - Identified and fixed over 10 issues to improve performance and user experience. 
@@ -260,17 +278,23 @@ January 2021 – August 2022
 - Created programs using C# to process APIs and retrieve data for 19 sports. 
 - Managed data in the database using SSMS and SQL
 
-#### Project Sought
+#### Types Of Projects Sought
 - I want to work on something that helps improve the quality of life and well-being of college students.
 - I want to explore other aspects of software engineering as well.
 
-## Budget
+## 9. Budget
 
 To date, expeneses only include $5 OpenAI GPT3.5 API cost
 
-## Appendix
+## 10. Appendix
 
-### [Google Form Survey form](https://forms.gle/EQSPGkfmLfjiM3hm9)
+### Code repository link
+
+The code including all relevant documents are hosted on Github at: [https://github.com/bhuynhdev/college-compass](https://github.com/bhuynhdev/college-compass)
+
+### Google Form Survey form
+
+To help understand our users better and see which ares of concerns college students struggle with that we can aid in, we created a Google Forms survey. The questionaire can be accessed [here](https://forms.gle/EQSPGkfmLfjiM3hm9).
 
 Questions:
 
@@ -279,12 +303,17 @@ Questions:
 3. When it comes to career, what aspect do you find challenging? - Finding Opportunity, Resume Building, Networking, Technical Skills, Soft Skills, Career Choice
 4. Please provide some more details in a few words.
 
-### [Code repository link](https://github.com/bhuynhdev/college-compass)
+### Web scraping result
 
-### [Web scraping result]()
-
-The [CEAS college website](https://ceas.uc.edu) was scraped using the [GPT Crawler library](https://www.builder.io/blog/custom-gpt#get-started-with-gpt-crawler) by Builder IO. The scraping took 1 hour to recursively scrape 1000 pages from the website, and the output is in the `src/gpt-crawler/output.json` file
+The [CEAS college website](https://ceas.uc.edu) was scraped using the [GPT Crawler library](https://www.builder.io/blog/custom-gpt#get-started-with-gpt-crawler) by Builder IO. The scraping took 1 hour to recursively scrape 1000 pages from the website, and the result can be accessed through this [link](https://github.com/bhuynhdev/college-compass/blob/main/src/gpt-crawler/output.json).
 
 ### Images of College Compass's first version result using GPT Assistant
 
+After web scraping, we attempt to use GPT3.5 Assistant feature, providing it with our web scrape result to ask the AI questions about college resources. The images of our preliminary chat result is shown above:
+
+GPT answer is often generic at first, even though the file is provided
+![](/gpt-result-v0-1.png)
+
+By Prompt engineering, we achived better results
 ![](/gpt-result-v0.png)
+
